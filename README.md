@@ -23,6 +23,14 @@ Implement what you think would be most useful for speeding or simplifying the ga
 Example: Unity Engine doesn't come with Steering behaviours built in.
 Perhaps build your own Steering AI for use in Unity.
 
+Be Prepared for Paper Prototyping
+---------------------------------
+Bring the Following
+1. Scissors
+2. Colored Markers
+3. Lots of Paper
+4. Pencil
+5. Eraser
 
 
 GameJam Group Prep
